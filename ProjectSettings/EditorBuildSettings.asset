@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu/Assets/Scene/3D MENU.unity
+    guid: d44ef65fce8281f4eb8b3cfbf4cab2e7
+  - enabled: 1
+    path: Assets/Menu/Assets/Scene/Cosmic Journey.unity
+    guid: 4f2a2458b9bff954eaa95fc0d4858b45
+  - enabled: 1
+    path: Assets/Scene/Game.unity
+    guid: bd8cf112cb9946840a113b788c3bffc9
+  - enabled: 1
+    path: Assets/Scene/Mercury.unity
+    guid: ee5aee0d9151fba4eb98f0294b22549e
+  - enabled: 1
+    path: Assets/Scene/Venus.unity
+    guid: 469485fb8f5d61c46849696425d90a39
+  - enabled: 1
+    path: Assets/Scene/Earth.unity
+    guid: c3bba8372f67fbb489ac60179ec112a7
+  - enabled: 1
+    path: Assets/Scene/Mars.unity
+    guid: 5db22d96b1616a04b85f041995343465
+  - enabled: 1
+    path: Assets/Scene/Jupitar.unity
+    guid: 7e8895c8b442f444398ec6ad8b04c54c
+  - enabled: 1
+    path: Assets/Scene/Saturn.unity
+    guid: f8186f76fdb2a424e96b1259c33bfd7a
+  - enabled: 1
+    path: Assets/Scene/Uranus.unity
+    guid: 52c152c058fb0494c924cff57dcbfd8a
+  - enabled: 1
+    path: Assets/Scene/Neptune.unity
+    guid: 2b9c088f567ee4848a0fecfc685a149a
+  - enabled: 1
+    path: Assets/Scene/Black Hole.unity
+    guid: 3100595e71bd0c94d80effea36e90e63
+  - enabled: 1
+    path: Assets/Scene/Astroid Belt.unity
+    guid: 41b9d2f8d68abae41aa96d844122d4e8
+  - enabled: 1
+    path: Assets/Scene/Milkey Galaxy.unity
+    guid: 1fa09b6e6b031834d9f4fdc7cc29bd87
+  - enabled: 1
+    path: Assets/Menu/Assets/Scene/Cosmic Adress.unity
+    guid: 9c193d788cfe23544a2d9a010ed8e234
+  - enabled: 1
+    path: Assets/Scene/Local Galactic Group.unity
+    guid: 86d839cabb7b0444c8e02c0b91c92d74
+  - enabled: 1
+    path: Assets/Menu/Assets/Scene/Beyond Our Solar System.unity
+    guid: a12688d7da73d1540a5af542af140040
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/55 Cancri/55 Cancri b.unity
+    guid: abe6761a77fb1cc40b21f6995b8c9ef4
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/55 Cancri/55 Cancri d.unity
+    guid: cc80a182a2166cb49bc681fe61a6e456
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/55 Cancri/55 Cancri e.unity
+    guid: 22893929c787da9459a64eda4fcb3949
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/55 Cancri/55 Cancri f.unity
+    guid: 4a9cdf1a6a872224da588174956cb9ca
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/55 Cancri/55 Cancri Solar System.unity
+    guid: fe0117158d234e546875cc9306cee2fa
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/55 Cancri/55 Cencri c.unity
+    guid: c4d12433fefd7134aafab580a84c47ca
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/HD 183397/HD 189733 Solar System.unity
+    guid: 49136369a7f05654287790be34831fcd
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/HD 183397/HD 189733b.unity
+    guid: 4d1a550ceac985d48b309d07890cd29d
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/PSR B1257+12/PSR B1257+12 b.unity
+    guid: 499f4de53753bf5468432a0d3f9d4f85
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/PSR B1257+12/PSR B1257+12 c.unity
+    guid: 334eed570285b3b4d852488922b856ce
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/PSR B1257+12/PSR B1257+12 d.unity
+    guid: dc09719a47eaca245990d1f29ff66622
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/PSR B1257+12/PSR B1257+12 Solar System.unity
+    guid: ca9a5d14691ddea4e9e331ca18acc12c
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/KOI-55/KOI-55 Solar System.unity
+    guid: 7d04225d89b8d7646a6422d61a3b0632
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/KOI-55/KOI-55 c.unity
+    guid: d696f248ce998e648bf0c994a1c78823
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/KOI-55/KOI-55 b.unity
+    guid: 45f031d4e7f1602409aa4159faae5a10
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/WASP-12/WASP-12 b.unity
+    guid: 2b684652c81581d459f00abd55f1b043
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/WASP-12/WASP-12 Solar System.unity
+    guid: 810784f17f28e3647acbbbbebff000ad
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/TrES-2/TrES-2 Solar System.unity
+    guid: 5cb909388fb1ddb45a21d9b5ff91fcaa
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/TrES-2/TrES-2  b.unity
+    guid: 03d67dee8719012489b68ab556e1de5b
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/HAT-P-1/HAT-P-1 b.unity
+    guid: e26cd4ae84444c44c8d5302523d961a6
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/HAT-P-1/HAT-P-1 Solar System.unity
+    guid: b2a04923acaf92841860b4e14b4c12f8
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/YZ Ceti/YZ Ceti Solar System.unity
+    guid: 86d681c60bf26a24ab922e90f5c495a6
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/YZ Ceti/YZ_d.unity
+    guid: b93dc5212dbaa1741a0c40e0a9e31923
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/YZ Ceti/YZ_c.unity
+    guid: 8ec1eedaa7d13b346944a224d517ce20
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/YZ Ceti/YZ_b.unity
+    guid: 1c5ecad3c405f3f48a335c9b8bf4a9a6
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Trappist - 1/Trappist Solar System.unity
+    guid: 7d4e03e032f77fa4cadc0fe71d25773d
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Trappist - 1/trappist_b.unity
+    guid: 8c7c9fda1125eba4e866dab71b2f323f
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Trappist - 1/trappist_c.unity
+    guid: a9ceaf2bcc17e834aab3bc0d26ed65de
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Trappist - 1/trappist_d.unity
+    guid: 5fa6f3f5849c9c94d91bdfde84553d91
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Trappist - 1/trappist_e.unity
+    guid: 18784bd852b27e64aaff62c1c829e80d
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Trappist - 1/trappist_f.unity
+    guid: a145191e05356234db8591773a1aba96
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Trappist - 1/trappist_g.unity
+    guid: 7bb9163d0a6823a4081279b024e3fdd1
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Trappist - 1/trappist_h.unity
+    guid: db90a30be24d2a84c91703b05ba0676e
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Proxima Centuri/Proxima Centuri b.unity
+    guid: 01ae17afb000b3d42a23a9de585742ea
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Proxima Centuri/Proxima Centuri Solar System.unity
+    guid: e44e1c80da2f4144bba1fa4e5d8c27e7
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/HD 209458/HD_twenty b.unity
+    guid: c480bd72784798443a9da0a641f72cd4
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/HD 209458/HD_twenty Solar System.unity
+    guid: 76c3b1879e9d7b842a1198d8d39ffbd9
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Keplar-16/Keplar_16_B.unity
+    guid: 19852970fc0d30042aea98fc31b61f84
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Keplar-16/Keplar_16_A.unity
+    guid: 245d6b48532aa324fb28930bd86ece9a
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Keplar-16/Keplar_16_ b.unity
+    guid: 3ce3a679ac730fc4db4a0bba464f0250
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Keplar-16/Keplar 16 Solar System.unity
+    guid: 4c4e1089aee7a874faa7a4b4960b9b2b
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Kepler-186/Kepler-186 Solar System.unity
+    guid: bc118e501191aeb438426724e249b37f
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Kepler-186/Kepler-186_b.unity
+    guid: e9f1f7fd2164bb94faf5099aedbc654b
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Kepler-186/Kepler-186_c.unity
+    guid: 3743958a94333bc41ad6deb6c5a94c4e
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Kepler-186/Kepler-186_d.unity
+    guid: 06df00c95b2e4914aadf28c1da81060d
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Kepler-186/Kepler-186_e.unity
+    guid: bd60ea6fb7abb204d8fb4ee537abfff7
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Kepler-186/Kepler-186_f.unity
+    guid: 5cec2141ede1adc49bc59f6c4101dbc2
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Kepler-452/Kepler-452 Solar System.unity
+    guid: 3aab27d8b34abba4288a33778ac06195
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Kepler-452/Kepler-452_b.unity
+    guid: cad631d23f412dc4ba4eddc25af3e4fe
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Kepler-22/Kepler-22 Solar System.unity
+    guid: 4e798fa795f4c3a4fab7930e10638d0f
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Kepler-22/Kepler-22_b.unity
+    guid: 9ab33d7709c94a84391839f1c01a036c
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Kepler-7/Kepler-7 Solar System.unity
+    guid: 11a7cf085f9622a43b764e481daf31db
+  - enabled: 1
+    path: Assets/Beyond Our Solar System/Kepler-7/Kepler-7_b.unity
+    guid: 2fe455aea27784f4a892cde2e5e472b4
+  m_configObjects: {}
